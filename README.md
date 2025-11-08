@@ -1,7 +1,6 @@
 # 🌐 Static Website Hosting using AWS S3
 
-### 👩‍💻 Author: Aswini  
-### 📘 Course: AWS Cloud Computing  
+
 
 ---
 
