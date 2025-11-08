@@ -16,22 +16,22 @@ By using S3 for web hosting, we can deploy HTML, CSS, and image files easily wit
 
 ## ⚙️ Steps Performed
 
-### 🟢 1️⃣ Bucket Creation
+###  1️⃣ Bucket Creation
 A new **S3 bucket** named `aswini-static-website-2025` was created in AWS to store the website files.
 
-### 🟢 2️⃣ Upload Website Files
+###  2️⃣ Upload Website Files
 Website files like **index.html**, **style.css**, and images were uploaded into the S3 bucket.
 
-### 🟢 3️⃣ Enable Static Website Hosting
+###  3️⃣ Enable Static Website Hosting
 The **Static Website Hosting** feature was enabled under the **Properties** tab, and the **index document** and **error document** were defined.
 
-### 🟢 4️⃣ Configure Bucket Policy
+###  4️⃣ Configure Bucket Policy
 A **public read access policy** was applied so that users can view the website via the S3 link.
 
-### 🟢 5️⃣ Modify Public Access Settings
+###  5️⃣ Modify Public Access Settings
 The **“Block all public access”** option was disabled to make the website publicly reachable.
 
-### 🟢 6️⃣ Website Testing
+###  6️⃣ Website Testing
 The website endpoint URL was opened in the browser — displaying the uploaded **HTML and CSS content** successfully.
 
 ---
